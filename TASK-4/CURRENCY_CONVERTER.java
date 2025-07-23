@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class currency {
+public class CURRENCY_CONVERTER {
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
     
